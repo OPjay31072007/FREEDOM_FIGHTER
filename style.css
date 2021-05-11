@@ -1,22 +1,18 @@
 body {
-  background-color: lightblue;
+ background-image: url("image/backimg.jpg");
+  background-color: #cccccc;
 }
 
-ul{
-  color: green;
+li{
+  font-size: 20px;
 }
 
-h1{
-   font-style: normal;
-   color: blue;
-}
-h2 {
-   color: purple;
-  }
-ol {
-   color: white;
+p{
+  font-size: 20px;
 
 }
-ul {
-   color: white;
+
+a{
+    font-size: 30px;
+
 }
